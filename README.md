@@ -23,7 +23,7 @@
 
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/dfki-ric/py_trees_ros_viewer/master/docs/images/ros2-logo.png" alt="ros2" width="55" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 ---
