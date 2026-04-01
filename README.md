@@ -37,4 +37,4 @@
 ---
 
 ### 📫 İletişim:
-[LinkedIn](https://www.linkedin.com/in/erenaltun/) | [Medium](https://medium.com/@erenaltun)
+[LinkedIn](https://www.linkedin.com/in/eren-altun2/) | [Medium](https://medium.com/@eren.alltun)
